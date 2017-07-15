@@ -24,7 +24,7 @@
 - ## 了解
 1. 数据库相关 : Redis , MongoDB
 
-2. 前端 : Angularjs
+2. 前端 : Angularjs , Nodejs
 
 3. 技术栈相关 : Zookeeper , Druid , Kalfa
 
