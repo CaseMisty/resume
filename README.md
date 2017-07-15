@@ -19,18 +19,18 @@
 
 3. 数据库 : MySQL / Oracle
 
-4. 大数据相关:Hadoop/Hive/Spark
+4. 大数据相关:Hadoop / Hive / Spark
 
 - ## 了解
 1. 数据库相关 : Redis , MongoDB
 
 2. 前端 : Angularjs
 
-3. 技术栈相关 : Zookeeper,Druid,Kalfa
+3. 技术栈相关 : Zookeeper , Druid , Kalfa
 
 - ## 其他
-- 项目管理及版本控制:Maven,Git,SVN
-- 树莓派用户,熟悉Ubuntu,CentOS操作系统环境
+- 项目管理及版本控制:Maven , Git , SVN
+- 树莓派用户 , 熟悉Ubuntu , CentOS操作系统环境
 
 
 # 项目经验
@@ -62,7 +62,7 @@
 - ## 校内经历
 - #### 沈阳工业大学校团委网络管理中心技术部兼影音部部长
 1. 主导青春风行网的维护和校团委相关项目的开发
-2. .培养本校15、16级新人
+2. 培养本校15、16级新人
 
 - ## 获奖情况
 - #### 2016.09辽宁省“互联网+”大学生创新创业大赛三等奖
