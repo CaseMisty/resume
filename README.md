@@ -26,8 +26,8 @@
 
 3. 技术栈相关 : Zookeeper,Druid,Kalfa
 
-- ## 版本控制
-- Git,SVN
+- ## 其他
+- 版本控制:Git,SVN
 - 树莓派用户,熟悉Ubuntu,CentOS操作系统环境
 
 
