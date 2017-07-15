@@ -5,7 +5,9 @@
 
 - 手机 : 13188048735　　QQ : 1278457484
 
-- Github ：https://github.com/ruanroah　　Email : asrh0412@gmail.com
+- Github ：https://github.com/ruanroah　　
+
+- Email : asrh0412@gmail.com
 
 - 期望职位 : Java后台开发工程师 / 大数据开发工程师
 
