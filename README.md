@@ -26,7 +26,7 @@
 
 2. 前端 : Angularjs , Nodejs
 
-3. 技术栈相关 : Zookeeper , Druid , Kalfa
+3. 技术栈相关 : Zookeeper , Druid , Kafka
 
 - ## 其他
 - 项目管理及版本控制:Maven , Git , SVN
