@@ -19,7 +19,7 @@
 
 3. 数据库 : MySQL / Oracle
 
-4. 大数据:Hadoop / Hive  
+4. 大数据 : Hadoop / Hive  
 - ## 了解
 1. 数据库相关 : Redis / MongoDB
 
