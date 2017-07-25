@@ -12,18 +12,24 @@
 - 期望职位 : Java后台开发工程师 
 
 # 技能掌握
-- ## 熟悉
+- ## 熟练
 1. 基础 : Java(8) /html(5) / css(3) / Javascript / Ajax / 设计模式
 
-2. 框架 : SpringMVC / Struts / SpringBoot / MyBatis / Bootstrap / Jquery
+2. 框架 : SpringMVC /  MyBatis / Bootstrap / jQuery
 
 3. 数据库 : MySQL / Oracle
+- ## 熟悉
+1. 基础 : ES6 
+
+2. 框架 : Struts / SpringBoot 
+
+3. 数据库 : SqlServer
 
 4. 大数据 : Hadoop / Hive  
 - ## 了解
 1. 数据库相关 : Redis / MongoDB
 
-2. 前端相关 : ES6 / Nodejs
+2. 前端相关 : Angularjs / Nodejs
 
 3. 后台相关 : JPA / Hibernate
 
