@@ -7,7 +7,7 @@
 
 - Github ：https://github.com/RuanRoah
 
-- Email : asrh0412@gmail.com
+- Email : asrh0412@gmail.com , asrh0412@163.com
 
 - 期望职位 : Java后台开发工程师 
 
