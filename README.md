@@ -23,7 +23,7 @@
 
 2. 框架 : Struts / SpringBoot 
 
-3. 数据库 : SQlServer
+3. 数据库 : SQLServer
 
 4. 大数据 : Hadoop / Hive  
 - ## 了解
