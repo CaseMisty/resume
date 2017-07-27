@@ -23,7 +23,7 @@
 
 2. 框架 : Struts / SpringBoot 
 
-3. 数据库 : SqlServer
+3. 数据库 : SQlServer
 
 4. 大数据 : Hadoop / Hive  
 - ## 了解
@@ -46,8 +46,8 @@
 #### 基于SpringMVC+Hadoop实现的票务分析
 ##### 后台+大数据相关(2017.06 - 2017.8)
 1. 后台基于SpringMVC+Mybatis+Oracle实现车票的完整购买 , 余票查询 , 座位安排和订单生成过程
-2. 基于Hadoop+Hive，进行后台数据统计，实现管理员功能 , 定期对所有票务信息进行详细统计,并实现数据可视化
-3. 通过MapReduce对票务信息 , 热点信息 , 用户信息进行数据统计并借助Echarts将数据展现到前台
+2. 基于HDFS生态(Hadoop+Hive+Sqoop)，进行后台数据统计，实现管理员功能 , 定期对所有票务信息进行详细统计,并实现数据可视化
+3. 通过MapReduce+Hive 对票务信息 , 热点信息 , 用户信息进行数据统计并借助Echarts将数据展现到前台
 
 
 #### 基于FreeMarker开发的文法学院研究生就业信息文档生成工具
