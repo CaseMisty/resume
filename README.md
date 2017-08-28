@@ -31,14 +31,14 @@
 
 2. 前端相关 : Angularjs / Nodejs
 
-3. 后台相关 : JPA / Hibernate
+3. 后台相关 : JPA / Hibernate /Beego
 
 3. 大数据相关 : HBase / Zookeeper
 
 
 - ## 其他
 1. 项目管理及版本控制 : Maven , Git , SVN
-2. 树莓派用户 , 熟练使用Ubuntu , CentOS等操作系统环境
+2. 熟练使用Ubuntu , CentOS等操作系统环境
 
 
 # 项目经验
