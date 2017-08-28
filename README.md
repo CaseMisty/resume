@@ -19,7 +19,7 @@
 
 3. 数据库 : MySQL / Oracle
 - ## 熟悉
-1. 基础 : ES6 
+1. 基础 : Golang 
 
 2. 框架 : Struts / SpringBoot 
 
