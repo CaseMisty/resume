@@ -25,20 +25,21 @@
 
 3. 数据库 : SQLServer
 
-4. 大数据 : Hadoop / Hive  
+4. 大数据 : Hadoop / Hive / ApacheKylin 
 - ## 了解
-1. 数据库相关 : Redis / MongoDB
 
-2. 前端相关 : Angularjs / Nodejs
+2. 前端相关 : Nodejs
 
 3. 后台相关 : JPA / Hibernate /Beego
 
-3. 大数据相关 : HBase / Zookeeper
+3. 大数据相关 : HBase / Zookeeper / Spark
 
 
 - ## 其他
 1. 项目管理及版本控制 : Maven , Git , SVN
 2. 熟练使用Ubuntu , CentOS等操作系统环境
+
+# 实习经历
 
 
 # 项目经验
